@@ -10,5 +10,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.0.0] - 2017-10-08
-### Changed/Added
+## [1.0.0] - 2017-10-12
+### Added/Changed
+Job 1 Tasks Model
+Modified the autoload.php file to automatically load data file
