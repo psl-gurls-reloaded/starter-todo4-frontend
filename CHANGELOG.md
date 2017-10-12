@@ -1,6 +1,6 @@
 #Members
 - Takito(Hiram) Cabrera
-- Harshita Sharma
+- Harshita
  
 #Style Conventions
 - 4 space indentation
@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.0.0] - 2017-10-**
+## [1.0.0] - 2017-10-08
 ### Changed/Added
 
 ## [0.1.1] - 2017-10-12
@@ -22,3 +22,4 @@ All notable changes to this project will be documented in this file.
             - (Harshita)
 ### Modified the config/autoload file to pre-load the added tasks model. 
             - (Harshita)
+
