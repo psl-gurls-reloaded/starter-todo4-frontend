@@ -29,3 +29,8 @@ All notable changes to this project will be documented in this file.
 ### Changed Controllers and Homepage html to render the last five items and
 ### total tasks. This completes Job 2.
             - (Takito)
+            
+## [1.0.0] - 2017-10-12
+### Used Parsedown to grab data from jobs.md and render it with the help
+### of the Helpme controller. This completes the tasks from Job 5.
+            - (Takito)
