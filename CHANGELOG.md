@@ -11,7 +11,7 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 
 ## [1.0.0] - 2017-10-12
-### Job 1 completed
+### Setup Job completed
             - (Takito)
 
 ## [1.0.0] - 2017-10-12
@@ -19,7 +19,8 @@ All notable changes to this project will be documented in this file.
             - (Harshita)
 
 ## [1.0.0] - 2017-10-12
-### Added the tasks.php model to access the data from the taks.csv file.
+### Finished Job 1.
+### Added the tasks.php model to access the data from the tasks.csv file.
             - (Harshita)
             
 ### Modified the config/autoload file to pre-load the added tasks model. 
@@ -34,3 +35,15 @@ All notable changes to this project will be documented in this file.
 ### Used Parsedown to grab data from jobs.md and render it with the help
 ### of the Helpme controller. This completes the tasks from Job 5.
             - (Takito)
+
+## [1.0.0] - 2017-10-15
+### Finished Job 3. 
+### Added two views for category and priority, a controller called Views.php 
+    for the two views. Added code in Views.php to enable displaying the tasks 
+    in sorted order of their priorities.
+        - (Harshita)
+
+### Modified the Tasks.php model to enable displaying the tasks in sorted order 
+    of their categories. 
+        - (Harshita)
+
