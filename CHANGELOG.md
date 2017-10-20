@@ -18,9 +18,7 @@ All notable changes to this project will be documented in this file.
 ### Finished Step 4 (Maintenance Page)
         - (Harshita)
 
-
-
-********Reference_Format**********
+********Reference_Format********s**
 ## [1.0.0] - 20**-**-**
 ### State Task Done
 ### Explain thing done to finish task
