@@ -16,9 +16,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.0.0] - 2017-10-19
 ### Finished Step 4 (Maintenance Page)
-### Added something something
         - (Harshita)
-### Done this task
 
 
 
