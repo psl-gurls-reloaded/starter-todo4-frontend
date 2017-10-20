@@ -18,10 +18,12 @@ All notable changes to this project will be documented in this file.
 ### Finished Step 4 (Maintenance Page)
         - (Harshita)
 
+## [1.0.0] - 2017-10-19
+### Finished Step 6 (Pagination)
+        - (Harshita)
+
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**
 ### State Task Done
-### Explain thing done to finish task
-        - (Member Name)
-### Explain thing2 done to finish task
+### Maybe explain thing done to finish task
         - (Member Name)
