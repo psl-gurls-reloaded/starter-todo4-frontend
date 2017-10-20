@@ -15,4 +15,17 @@ All notable changes to this project will be documented in this file.
             - (Harshita)
 
 ## [1.0.0] - 2017-10-19
-### 
+### Finished Step 4 (Maintenance Page)
+### Added something something
+        - (Harshita)
+### Done this task
+
+
+
+********Reference_Format**********
+## [1.0.0] - 20**-**-**
+### State Task Done
+### Explain thing done to finish task
+        - (Member Name)
+### Explain thing2 done to finish task
+        - (Member Name)
