@@ -26,6 +26,10 @@ All notable changes to this project will be documented in this file.
 ### Finished Step 7 (Simple User Roles)
         - (Harshita)
 
+## [1.0.0] - 2017-10-20
+### Finished Step 8 (Provide for Completing Work)
+        - (Harshita)
+
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**
 ### State Task Done
