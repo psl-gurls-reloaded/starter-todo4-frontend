@@ -22,6 +22,10 @@ All notable changes to this project will be documented in this file.
 ### Finished Step 6 (Pagination)
         - (Harshita)
 
+## [1.0.0] - 2017-10-20
+### Finished Step 7 (Simple User Roles)
+        - (Harshita)
+
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**
 ### State Task Done
