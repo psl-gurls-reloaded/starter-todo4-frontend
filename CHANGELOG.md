@@ -34,10 +34,18 @@ All notable changes to this project will be documented in this file.
 ### Updated the contents of the ReadMe.md file
         - (Harshita)
         
-## [1.0.0] - 2017-10-20
+## [1.0.0] - 2017-10-21
 ### Job 9 Completed
 ### In order to complete the job I had to fix multiple files that were
 ### causing rendering errors. The problems were found from previous jobs.
+        - (Takito)
+        
+## [1.0.0] - 2017-10-21
+### Job 10 Completed
+### I had to implement several changes to the mtce controller to enable multiple
+### actions that turns the to-do list interactive (when in Owner mode). Thanks
+### to my fixes to the errors from initial jobs, I did not have any major problems
+###seting everything up.
         - (Takito)
 
 ********Reference_Format********s**
