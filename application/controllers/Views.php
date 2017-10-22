@@ -58,7 +58,7 @@ class Views extends Application {
     function complete() {
         $role = $this->session->userdata('userrole');
         if ($role != ROLE_OWNER)
-            redirect('/views');
+            redirect('/work'); //views showing before
         
         // loop over the post fields, looking for flagged tasks
         foreach ($this->input->post() as $key => $value) {

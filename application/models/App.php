@@ -32,7 +32,7 @@ class App extends CI_Model
 	// task ststus
 	private $statuses = [
 		1	 => 'in progress',
-		2	 => 'complete',
+		2	 => 'complete'
 	];
 
 	public function __construct()
