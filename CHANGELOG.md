@@ -48,6 +48,12 @@ All notable changes to this project will be documented in this file.
 ###seting everything up.
         - (Takito)
 
+## [1.0.0] - 2017-10-21
+### Job 11 Completed
+### In order to complete this task I had to use the functionalities of the
+### mtce/showit method to render list items in the itemedit.php view fragment.
+        - (Takito)
+
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**
 ### State Task Done
