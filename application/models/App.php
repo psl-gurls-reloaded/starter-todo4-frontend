@@ -32,37 +32,37 @@ class App extends CI_Model
 	// task ststus
 	private $statuses = [
 		1	 => 'in progress',
-		2	 => 'complete',
+		2	 => 'complete'
 	];
 
-	public function __construct()
-	{
-		parent::__construct();
-	}
+    public function flag($which = null) {
+        return isset($which) ?
+            (isset($this->flags[$which]) ? $this->flags[$which] : '') :
+            $this->flags;
+    }
 
-	public function flag($which = null)
-	{
-		return isset($which) ? $this->flags[$which] : $this->flags;
-	}
+    public function group($which = null) {
+        return isset($which) ?
+            (isset($this->groups[$which]) ? $this->groups[$which] : 'Unknown') :
+            $this->groups;
+    }
 
-	public function group($which = null)
-	{
-		return isset($which) ? $this->groups[$which] : $this->groups;
-	}
+    public function priority($which = null) {
+        return isset($which) ?
+            (isset($this->priorities[$which]) ? $this->priorities[$which] : 'Unknown') :
+            $this->priorities;
+    }
 
-	public function priority($which = null)
-	{
-		return isset($which) ? $this->priorities[$which] : $this->priorities;
-	}
+    public function size($which = null) {
+        return isset($which) ?
+            (isset($this->sizes[$which]) ? $this->sizes[$which] : 'Unknown') :
+            $this->sizes;
+    }
 
-	public function size($which = null)
-	{
-		return isset($which) ? $this->sizes[$which] : $this->sizes;
-	}
-
-	public function status($which = null)
-	{
-		return isset($which) ? $this->statuses[$which] : $this->statuses;
-	}
+    public function status($which = null) {
+        return isset($which) ?
+            (isset($this->statuses[$which]) ? $this->statuses[$which] : '') :
+            $this->statuses;
+    }
 
 }
