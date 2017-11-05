@@ -53,6 +53,17 @@ All notable changes to this project will be documented in this file.
 ### In order to complete this task I had to use the functionalities of the
 ### mtce/showit method to render list items in the itemedit.php view fragment.
         - (Takito)
+        
+## [2.0.0] - 2017-11-04
+### Job 1 Completed
+### Installed (Locally) Composer. 
+        - (Takito)
+        
+## [2.0.0] - 2017-11-04
+### Job 2 Completed
+### Used composer to import PHPUnit Package
+        - (Takito)
+        
 
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**
