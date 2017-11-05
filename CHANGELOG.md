@@ -74,6 +74,14 @@ All notable changes to this project will be documented in this file.
 ### $ vendor/bin/phpunit
         - (Takito and Harshita)
         
+## [2.0.0] - 2017-11-05
+### Job 8 Completed
+### It was a frustration many hours of work trying to set up
+### the code report. However, composer already had xdebug ready
+### to run so the only thing we were missing was adding the 
+### loggging xml tab in the phpunit.xml.dist file.
+        - (Takito and Harshita)
+        
 
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**
