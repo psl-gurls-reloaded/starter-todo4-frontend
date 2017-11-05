@@ -20,3 +20,5 @@ application/logs/*
 #other
 .idea/
 tmp/
+composer.phar
+
