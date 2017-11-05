@@ -64,6 +64,16 @@ All notable changes to this project will be documented in this file.
 ### Used composer to import PHPUnit Package
         - (Takito)
         
+## [2.0.0] - 2017-11-05
+### Job 3, 4, 5, 6, and 7 Completed
+### We ran into too many problems with setting PHP in Harshita's computer.
+### To speed up our work, we decided that it's just faster and better to work
+### together since my computer somehow started working properly. Today we
+### focused on figuring out the confusion in the TaskTest Class. After lots
+### of struggle, we made it work from the root project folder using the command:
+### $ vendor/bin/phpunit
+        - (Takito and Harshita)
+        
 
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**
