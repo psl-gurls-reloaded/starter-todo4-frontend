@@ -81,6 +81,11 @@ All notable changes to this project will be documented in this file.
 ### to run so the only thing we were missing was adding the 
 ### loggging xml tab in the phpunit.xml.dist file.
         - (Takito and Harshita)
+
+## [2.0.0] - 2017-11-05
+### Removing .phar file that should have not been included in Harshita's
+### last merge.
+        - (Takito)
         
 
 ********Reference_Format********s**
