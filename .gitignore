@@ -19,6 +19,9 @@ application/logs/*
 
 #other
 .idea/
+.DS_Store
 tmp/
 composer.phar
+vendor/
+
 
