@@ -139,7 +139,7 @@ class Mtce extends Application {
         $this->showit();
     }
 
-    // build a suitable error mesage
+    // build a suitable error message
     private function alert($message) {
         $this->load->helper('html');
         $this->data['error'] = heading($message,3);

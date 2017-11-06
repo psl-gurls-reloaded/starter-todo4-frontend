@@ -1,0 +1,6 @@
+{
+  "require": {
+    "phpunit/phpunit": "6.4",
+    "respect/validation": "1.1.*"
+  }
+}

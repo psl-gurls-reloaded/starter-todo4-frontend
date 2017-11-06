@@ -29,7 +29,7 @@ class Memory_Model extends CI_Model implements DataMapper
 	 * Constructor.
 	 * @param string $origin Persistent name of a collection
 	 * @param string $keyfield  Name of the primary key field
-	 * @param string $entity	Entity name meaningful to the persistence
+	 * @param string $entity	Task name meaningful to the persistence
 	 */
 	function __construct($origin = null, $keyfield = 'id', $entity = null)
 	{
