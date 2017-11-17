@@ -90,6 +90,10 @@ All notable changes to this project will be documented in this file.
 ## [3.0.0] - 2017-11-16
 ### Adding the XML Data File
         - (Takito)
+
+## [3.0.0] - 2017-11-16
+### Creating the XML_Model with Load()
+        - (Harshita)
         
 
 ********Reference_Format********s**
