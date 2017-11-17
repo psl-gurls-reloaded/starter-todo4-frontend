@@ -1,8 +1,7 @@
 <tasks>
-
     <item>
         <id>1</id>
-        <taskname>COMP1234 Assignment</taskname>
+        <task>COMP1234 Assignment</task>
         <priority>3</priority>
         <size>2</size>
         <group>2</group>
@@ -13,7 +12,7 @@
 
     <item>
         <id>2</id>
-        <taskname>Another Line</taskname>
+        <task>Another Line</task>
         <priority>3</priority>
         <size>2</size>
         <group>2</group>
@@ -24,7 +23,7 @@
 
     <item>
         <id>3</id>
-        <taskname>More Stuff</taskname>
+        <task>More Stuff</task>
         <priority>3</priority>
         <size>2</size>
         <group>2</group>
@@ -34,8 +33,8 @@
     </item>
 
     <item>
-        <id>3</id>
-        <taskname>Do Task</taskname>
+        <id>4</id>
+        <task>Do Task</task>
         <priority>3</priority>
         <size>2</size>
         <group>2</group>
