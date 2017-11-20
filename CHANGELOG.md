@@ -86,6 +86,25 @@ All notable changes to this project will be documented in this file.
 ### Removing .phar file that should have not been included in Harshita's
 ### last merge.
         - (Takito)
+
+## [3.0.0] - 2017-11-16
+### Adding the XML Data File
+        - (Takito)
+
+## [3.0.0] - 2017-11-16
+### Creating the XML_Model with Load()
+        - (Harshita)
+        
+## [3.0.0] - 2017-11-18
+### Changed XML_Model to refactor code and to ensure _fields variable from Memory 
+### Model is correctly used across the application.
+        - (Takito)
+        
+## [3.0.0] - 2017-11-18
+### Changed load() function inside the XML_Model file. Verified that the application
+### runs without any problems. All appears to be working as expected. This completes
+### lab job.
+        - (Takito)
         
 
 ********Reference_Format********s**
