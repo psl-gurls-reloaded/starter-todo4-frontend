@@ -95,6 +95,17 @@ All notable changes to this project will be documented in this file.
 ### Creating the XML_Model with Load()
         - (Harshita)
         
+## [3.0.0] - 2017-11-18
+### Changed XML_Model to refactor code and to ensure _fields variable from Memory 
+### Model is correctly used across the application.
+        - (Takito)
+        
+## [3.0.0] - 2017-11-18
+### Changed load() function inside the XML_Model file. Verified that the application
+### runs without any problems. All appears to be working as expected. This completes
+### lab job.
+        - (Takito)
+        
 
 ********Reference_Format********s**
 ## [1.0.0] - 20**-**-**

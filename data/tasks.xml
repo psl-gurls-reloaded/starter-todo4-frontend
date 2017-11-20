@@ -1,46 +1,73 @@
+<?xml version="1.0"?>
 <tasks>
-    <item>
-        <id>1</id>
-        <task>COMP1234 Assignment</task>
-        <priority>3</priority>
-        <size>2</size>
-        <group>2</group>
-        <deadline>20170219</deadline>
-        <status>2</status>
-        <flag></flag>
-    </item>
-
-    <item>
-        <id>2</id>
-        <task>Another Line</task>
-        <priority>3</priority>
-        <size>2</size>
-        <group>2</group>
-        <deadline>20170219</deadline>
-        <status>2</status>
-        <flag></flag>
-    </item>
-
-    <item>
-        <id>3</id>
-        <task>More Stuff</task>
-        <priority>3</priority>
-        <size>2</size>
-        <group>2</group>
-        <deadline>20170219</deadline>
-        <status>2</status>
-        <flag></flag>
-    </item>
-
-    <item>
-        <id>4</id>
-        <task>Do Task</task>
-        <priority>3</priority>
-        <size>2</size>
-        <group>2</group>
-        <deadline>20170219</deadline>
-        <status>2</status>
-        <flag></flag>
-    </item>
-
+  <item>
+    <id>1</id>
+    <task>COMP1234 Assignment</task>
+    <priority>3</priority>
+    <size>2</size>
+    <group>2</group>
+    <deadline>20170219</deadline>
+    <status>1</status>
+    <flag/>
+  </item>
+  <item>
+    <id>2</id>
+    <task>Another Line</task>
+    <priority>3</priority>
+    <size>2</size>
+    <group>2</group>
+    <deadline>20170219</deadline>
+    <status>1</status>
+    <flag/>
+  </item>
+  <item>
+    <id>3</id>
+    <task>More Stuff</task>
+    <priority>3</priority>
+    <size>2</size>
+    <group>2</group>
+    <deadline>20170219</deadline>
+    <status>1</status>
+    <flag/>
+  </item>
+  <item>
+    <id>4</id>
+    <task>Do Task</task>
+    <priority>3</priority>
+    <size>2</size>
+    <group>2</group>
+    <deadline>20170219</deadline>
+    <status>1</status>
+    <flag/>
+  </item>
+  <item>
+    <id>5</id>
+    <task>Another Test</task>
+    <priority>1</priority>
+    <size>1</size>
+    <group>1</group>
+    <deadline/>
+    <status>2</status>
+    <flag/>
+  </item>
+  <item>
+    <id>6</id>
+    <task>More Testing</task>
+    <priority>3</priority>
+    <size>2</size>
+    <group>3</group>
+    <deadline/>
+    <status>1</status>
+    <flag/>
+  </item>
+  <item>
+    <id>7</id>
+    <task/>
+    <priority>1</priority>
+    <size>1</size>
+    <group>1</group>
+    <deadline/>
+    <status>2</status>
+    <flag/>
+  </item>
 </tasks>
