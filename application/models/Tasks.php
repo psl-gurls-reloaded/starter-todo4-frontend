@@ -5,11 +5,16 @@
  * Date: 2017-10-12
  * Time: 3:48 PM
  */
+
+define('REST_SERVER', 'http://backend.local');  // the REST server host
+define('REST_PORT', $_SERVER['SERVER_PORT']);   // the port you are running the server on
+
 class Tasks extends XML_Model {
 
     public function __construct()
     {
-        parent::__construct(APPPATH . '../data/tasks.xml', 'id');
+        parent::__construct();
+//        parent::__construct(APPPATH . '../data/tasks.xml', 'id');
     }
     
     function getCategorizedTasks()
